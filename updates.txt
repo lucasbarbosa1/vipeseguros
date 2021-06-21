@@ -1,0 +1,40 @@
+-- TOPO DA PAGINA --
+-> Espaçamento do container de texto para o menu. OK
+-> Remover o Fazer Cotação grátis para mobile. OK
+-> Remover imagem QUEM SOMOS OK
+-> tirar margem texto QUEM SOMOS. OK
+
+
+-- SECTION NUMBERS --
+-> Animação números. 
+
+-- SECTION COTAÇÃO --
+-> botão verde. OK
+-> espaçamento. OK
+-> trocar foto. OK
+-> adicionar texto. OK
+
+-- SECTION SEGUROS --
+-> todas as imagens da mesma altura. OK
+
+--SECTION POR QUE SER VIPE--
+-> alterar ordem das colunas. OK
+-> imagem jô. 
+
+-- SECTION MELHORES SEGURADORAS --
+-> Diminuir imagens mobile. OK
+
+-- SECTION DEPOIMENTOS --
+-> novos comentários. OK
+
+-- SECTION FOOTER --
+-> botão verde. OK
+-> distanciar contato da logo. OK 
+-> distanciar icons dos dados acima.
+-> distanciar icons um do outro.
+
+-- FOOTER --
+-> ajustar rodapé.
+
+
+--> AJUSTAR JAVASCRIPT DO SITE. JQUERY NAO ESTÁ FUNCIONANDO.

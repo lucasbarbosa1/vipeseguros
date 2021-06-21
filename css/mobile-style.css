@@ -1,0 +1,147 @@
+@media only screen and (max-width:764px) {
+    /* MENU E TOPO*/
+    header {
+        clip-path: polygon(0 0, 100% 0, 100% 90%, 0 100%);
+        padding-bottom: 15%;
+    }
+    header .nav-item {
+        padding: 2%;
+    }
+
+    header .container {
+        margin-top: 15%;
+        margin-bottom: 10%;
+        padding-bottom: 25%;
+    }
+
+    header .container h1 {
+        font-size: 25px;
+        margin-bottom: 5%;
+    }
+
+    header .cotar {
+        display: none !important;
+    }
+
+    .dropdown-content {
+        position: initial;
+    }
+
+    /* QUEM SOMOS */
+
+    .section-aboutUs {
+        text-align: justify;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .section-aboutUs .imgAbout {
+        display: none !important;
+    }
+
+    .section-aboutUs h1 {
+        margin-top: 10%;
+        text-align: center;
+    }
+
+    .section-aboutUs p {
+        margin-top: 3%;
+        margin-left: 5%;
+        margin-right: 5%;
+        text-align: justify;
+    }
+
+
+    /* Numeros */
+
+    .section-numbers h1 {
+        font-size: 30px;
+    }
+
+    .section-numbers .col-md-4 {
+        padding-top: 3%;
+        padding-bottom: 3%;
+    }
+
+    .section-numbers p {
+        font-size: 20px;
+    }
+
+    /* solicite uma cotação */
+
+    .section-cotacao .col-md-7 h1 {
+        margin-left: 3%;
+        padding-top: 5%;
+        padding-bottom: 3%;
+        text-align: start;
+    }
+
+    .section-cotacao .col-md-7 p {
+        text-align: justify;
+        margin-left: 3%;
+        margin-right: 3%;
+    }
+
+    .section-cotacao .col-md-7 a {
+        margin-left: 3%;
+    }
+
+    .section-cotacao .col-md-5 {
+        padding-top: 10%;
+    }
+
+    /* SEGUROS */
+
+    .section-seguros {
+        margin-top: 10%;
+    }
+
+    /* PQ SER VIPE?*/
+
+    .section-why {
+        padding-top: 5%;
+        padding-bottom: 5%;
+        margin-bottom: 10%;
+    }
+
+    .section-why .pq{
+        margin-bottom: 10%;
+    }
+
+    /* SEGURADORAS */
+    .section-seguradoras h1{
+        margin-bottom: 7%;
+    }
+    .section-seguradoras .col-sm-2 {
+        width: 50%;
+    }
+
+
+
+
+
+    .section-footer {
+        margin-top: 10%;
+        text-align: center;
+    }
+
+    .section-footer h1 {
+        padding-top: 5%;
+    }
+    .section-footer img{
+        margin-top: 5%;
+        align-content: center;
+    }
+
+    .section-footer .col-md-5 {
+        text-align: center;
+    }
+
+    .section-footer .col-md-4 {
+        text-align: center;
+    }
+
+    footer {
+        text-align: center;
+    }
+}   
